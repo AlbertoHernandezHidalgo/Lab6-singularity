@@ -1,0 +1,2 @@
+WARNING: Skipping mount /nas/hdd-0/modules/singularity3.8/var/singularity/mnt/session/etc/resolv.conf [files]: /etc/resolv.conf doesn't exist in container
+/var/spool/slurmd/job32171/slurm_script: línea 9: makeblastdb: no se encontró la orden
