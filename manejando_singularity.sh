@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#Cargamos el módulo singularity
+module load singularity
 # Comando hostname
 
 echo "Hostname en ibsen:"
